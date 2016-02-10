@@ -5,7 +5,7 @@
 You need a proper development environment to learn to code. There are two ways to do this
 
 * Option 1: Environmentalizer, the Learn OSX Companion App
-* Option 2: Manually
+* Option 2: Manually install the necessary software 
 
 The easiest way is to download the app, but if you want to set up your environment yourself, feel free.
 
