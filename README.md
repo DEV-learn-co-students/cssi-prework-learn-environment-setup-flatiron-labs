@@ -11,7 +11,7 @@ The easiest way is to download the app, but if you want to set up your environme
 
 ## Option 1: Automating the Setup with Environmentalizer
 
-You cansetup your computer using the [Learn OSX Companion application](https://flatironschool-static.s3.amazonaws.com/learn.zip).
+You can setup your computer using the [Learn OSX Companion application](https://flatironschool-static.s3.amazonaws.com/learn.zip).
 
 If you use that app, a Github account is all you need (and you presumably already have one, since you're reading this document!).
 
@@ -34,30 +34,15 @@ In general the list of requirements for using Learn are:
 
 5. You're going to need [git](http://git-scm.com/downloads). It generally comes with most modern operating systems, can be installed via Homebrew, apt-get, and most package managers easily.
 
-6. A Ruby Interpreter. Having a working interpreter is a great idea because so much tooling is built in Ruby. This is true for Web Development with Python or Javascript, and even for Mobile Development with iOS & XCode. If you can type `ruby -v` and not get an error, you probably have enough of a Ruby environment. If you are studying Web Development with Ruby (such as the Rails framework) you definitely need a great Ruby environment. We love [RVM](https://rvm.io/) for managing Ruby versions and environments.
+6. A Ruby Interpreter. Having a working interpreter is a great idea because so much tooling is built in Ruby. This is even true for the web development you will complete with Python. If you can type `ruby -v` and not get an error, you probably have enough of a Ruby environment. If you are studying Web Development with Ruby (such as the Rails framework) you definitely need a great Ruby environment. We love [RVM](https://rvm.io/) for managing Ruby versions and environments.
 
 7. The `learn` gem. Simply type: `gem install learn-co` or if you get a permissions error, `sudo gem install learn-co`. Then type in `learn` to configure it with your github account and you'll be all set.
 
-8. A Text Editor. For iOS, XCode is a great IDE. But you'll find the free editors [Sublime Text](http://www.sublimetext.com/) and [Atom](https://atom.io/) useful anyway so go ahead an install them.
+8. A Text Editor. For iOS, XCode is a great IDE,  but your CSSI students will be using [Atom](https://atom.io/).  Therefore, it is beneficial to use Atom at your text editor.
 
 Those are the absolute requirements.
 
 
-### Additional Requirements for Ruby on Rails
-
-If you're planning on working with the Ruby on Rails framework. We additionally suggest you setup at least:
-
-1. The easiest free database to use with Rails is [SQLite](https://www.sqlite.org/download.html). You can install it with `brew install sqlite` or an equivalent package manager, or install it yourself from the source.
-
-2. Postgres is a great idea to have set up too and the [Postgres.app](http://postgresapp.com/) makes it easy.
-
-3. You probably want to install LibXML2 via Homebrew (`brew install libxml2`) and then test it by trying to install the gem [Nokogiri](http://www.nokogiri.org/tutorials/installing_nokogiri.html#mac_os_x) with `gem install nokogiri`.
-
-4. The Rails gem `gem install rails`.
-
-### Help and Advice
-
-Since you're reading this guide you probably have some experience with environment setups, if not, please use the Learn Companion app to automate your setup. We also think the [RailsApps Install Guides](http://railsapps.github.io/installrubyonrails-mac.html) are great. [InstallRails](http://installrails.com/) isn't bad either.
 
 Good luck!!!
 
