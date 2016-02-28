@@ -2,6 +2,8 @@
 
 ## Setting Up Your Environment for Learn.co
 
+** If you've already set up your environment and downloaded the Learn App, feel free to skip this readme! **
+
 You need a proper development environment to learn to code. There are two ways to do this
 
 * Option 1: Environmentalizer, the Learn OSX Companion App
@@ -41,7 +43,6 @@ In general the list of requirements for using Learn are:
 8. A Text Editor. For iOS, XCode is a great IDE,  but your CSSI students will be using [Atom](https://atom.io/).  Therefore, it is beneficial to use Atom at your text editor.
 
 Those are the absolute requirements.
-
 
 
 Good luck!!!
