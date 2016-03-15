@@ -2,7 +2,7 @@
 
 ## Setting Up Your Environment for Learn.co
 
-** If you've already set up your environment and downloaded the Learn App, feel free to skip this readme! **
+**If you've already set up your environment and downloaded the Learn App, feel free to skip this readme!**
 
 You need a proper development environment to learn to code. There are two ways to do this
 
